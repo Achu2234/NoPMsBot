@@ -62,14 +62,13 @@ START_COMMAND = get_config("START_COMMAND", "start")
 DEFAULT_START_TEXT = (
     "Hi. ☺️\n"
     "Thank you for using me 😬\n\n"
-    "This is an Open Source Project available on "
-    "https://github.com/SpEcHIDe/NoPMsBot\n\n\n"
+    "Here you can contact @Yeageristbotsdev "
     "If you are the owner of this bot, "
     "and are seeing this message 🤦‍♂️, "
     "means that you have not set up "
     "the ENVironment variables properly "
     "for the bot to function.\n\n\n"
-    "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+    "ℹ️ Subscribe @Animemusicarchive6 if you 😍 using this bot❗️❣️"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -81,9 +80,9 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "i am online <b>master</b>\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "I am offical bot to contact my master "
+        "https://t.me/Yeageristbotsdev\n\n\n"
+        "ℹ️ Subscribe@Animemusicarchive6 if you 😍 using this bot❗️❣️"
     )
 )
 # message to indicate,
@@ -93,9 +92,9 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
     "DELETED_MESSAGES_NOTIFICATION_TEXT",
     (
         "this message was deleted\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHiDe/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "I am offical bot to contact my master "
+        "https://t.me/Yeageristbotsdev\n\n\n"
+        "ℹ️ Subscribe@Animemusicarchive6 if you 😍 using this bot❗️❣️"
     )
 )
 # IDEKWBYRW
